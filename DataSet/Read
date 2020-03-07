@@ -1,0 +1,13 @@
+Dataset Structure:
+
+Dataset
+- - -> test
+- - - - -> o
+- - - - -> r
+
+- - -> train
+- - - - -> o
+- - - - -> r
+
+
+//  o=organic r=recyclable 
